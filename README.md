@@ -93,7 +93,6 @@ WARNING: Multiple definitions for safeTransferFrom
 ✓ ERC721 contract deployed
 ✓ CentrifugeAssetStore contract deployed
 
-================================================================
 Url:        https://rinkeby-light.eth.linkpool.io/
 Deployer:   0xE2B23454bEFe73Cf3e74cE9533F5FfFA091094a5
 Gas Limit:   8000000
@@ -109,7 +108,6 @@ Bridge Fee:  0
 Expiry:      100
 
 Contract Addresses
-================================================================
 Bridge:             0xB7223605039dD9BFAE528B71eA7157725b9d8416
 ----------------------------------------------------------------
 Erc20 Handler:      0x5F88E272fd66B4182A1705B6Ca51BC4658e00E0A
@@ -123,7 +121,6 @@ Erc20:              0x14F92974D3980D74cf64BF83bc9f2c4b420e1A10
 Erc721:             0xd73BE42678b94Cb75e8Bb840b2df1BEe1a26320A
 ----------------------------------------------------------------
 Centrifuge Asset:   0xAed12A4f43ca3B97f234c61D7d637cC1534C396b
-================================================================
 ```
 
 Then configure contracts on ETH.
@@ -149,7 +146,6 @@ WARNING: Multiple definitions for safeTransferFrom
 ✓ ERC721 contract deployed
 ✓ CentrifugeAssetStore contract deployed
 
-================================================================
 Url:        http://127.0.0.1:9933
 Deployer:   0xE2B23454bEFe73Cf3e74cE9533F5FfFA091094a5
 Gas Limit:   8000000
@@ -165,7 +161,6 @@ Bridge Fee:  0
 Expiry:      100
 
 Contract Addresses
-================================================================
 Bridge:             0x60dF29E1ACD488919341c63FA2BfB7F05Daa7C7A
 ----------------------------------------------------------------
 Erc20 Handler:      0xB7223605039dD9BFAE528B71eA7157725b9d8416
@@ -179,7 +174,6 @@ Erc20:              0xa5d10fA7aB8EC1535C135F88E6d477c994388B1A
 Erc721:             0x14F92974D3980D74cf64BF83bc9f2c4b420e1A10
 ----------------------------------------------------------------
 Centrifuge Asset:   0xd73BE42678b94Cb75e8Bb840b2df1BEe1a26320A
-================================================================
 ```
 
 Configure bridge
