@@ -1,6 +1,17 @@
-# chain-bridge-demo-fdc
+# findora-defi-chain
 
-Reference project:
+## Build project
+
+``` shell
+$ cargo build --release
+```
+
+## Features
+
+- Use `ChainBridge` to cross ETH and `Findora Defi Chain`'s ETH.
+- Use `Findora Defi Chain`'s pallet to cross Findora's assets.
+
+## Related project
 
 - [compound-finance/gateway](https://github.com/compound-finance/gateway)
 - [frontier](https://github.com/paritytech/frontier)
